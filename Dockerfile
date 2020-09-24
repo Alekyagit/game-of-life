@@ -1,6 +1,6 @@
-FROM tomcat:8.0
+FROM tomcat:latest
 
-MAINTAINER hemanth.sai01@gmail.com
+MAINTAINER alekya
 
 USER root
 
